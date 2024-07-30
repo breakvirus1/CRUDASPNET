@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Birth.Models.People>
+<h1>Ближайшие дни рождения в этом году:</h1>
+<ul>
+    @foreach (var person in Model)
+    {
+        <li>
+            <strong>@person.Name</strong> - @person.Birthday.ToShortDateString()
+        </li>
+    }
+</ul>
