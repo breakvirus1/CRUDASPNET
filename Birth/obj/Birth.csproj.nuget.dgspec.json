@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SystemX\\source\\repos\\Birth\\Birth\\Birth.csproj": {}
+    "C:\\Users\\SystemX\\Documents\\GitHub\\CRUDASPNET\\Birth\\Birth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SystemX\\source\\repos\\Birth\\Birth\\Birth.csproj": {
+    "C:\\Users\\SystemX\\Documents\\GitHub\\CRUDASPNET\\Birth\\Birth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SystemX\\source\\repos\\Birth\\Birth\\Birth.csproj",
+        "projectUniqueName": "C:\\Users\\SystemX\\Documents\\GitHub\\CRUDASPNET\\Birth\\Birth.csproj",
         "projectName": "Birth",
-        "projectPath": "C:\\Users\\SystemX\\source\\repos\\Birth\\Birth\\Birth.csproj",
+        "projectPath": "C:\\Users\\SystemX\\Documents\\GitHub\\CRUDASPNET\\Birth\\Birth.csproj",
         "packagesPath": "C:\\Users\\SystemX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SystemX\\source\\repos\\Birth\\Birth\\obj\\",
+        "outputPath": "C:\\Users\\SystemX\\Documents\\GitHub\\CRUDASPNET\\Birth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SystemX\\AppData\\Roaming\\NuGet\\NuGet.Config",
